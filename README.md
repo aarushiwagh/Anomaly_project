@@ -58,5 +58,5 @@ Ensemble | 99.14% | 0.911 | 0.753 | 0.819
 
 If you use this code or dataset in your research, please cite:
 
-> Patil, P., Kale, G., Chandwani, M., & Wagh, A. (2023). _Boosting Attack Detection Capabilities in Multi-Tenant Distributed Systems via Meta-Ensemble Classifiers and Weighted Averaging_. IJRITCC, Vol. 11, Issue 9. [Read Paper](http://www.ijritcc.org/download/Boosting-Attack-Detection-Capabilities-in-Multi-Tenant-Distributed-Systems-via-Meta-Ensemble-Classifiers-and-Weighted-Averaging.pdf)
+> Patil, P., Kale, G., Chandwani, M., & Wagh, A. (2023). _Boosting Attack Detection Capabilities in Multi-Tenant Distributed Systems via Meta-Ensemble Classifiers and Weighted Averaging_. IJRITCC, Vol. 11, Issue 9. [Read Paper]([http://www.ijritcc.org/download/Boosting-Attack-Detection-Capabilities-in-Multi-Tenant-Distributed-Systems-via-Meta-Ensemble-Classifiers-and-Weighted-Averaging.pdf](https://ijritcc.org/index.php/ijritcc/article/view/8994))
 
