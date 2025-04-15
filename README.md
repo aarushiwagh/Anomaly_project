@@ -55,6 +55,28 @@ Balancing Strategy:
 | Random Forest  | 99.92%   | 0.916     | 0.733  | 0.814    |
 | **Ensemble**   | **99.14%** | **0.911** | **0.753** | **0.819** |
 
+---
+
+## Observations & Notes
+
+Although model accuracy is extremely high, it's important to note the following:
+
+1. The dataset is **simulated in a controlled virtual lab**, which means:
+   - Attack behaviors (e.g., CPU spikes, memory anomalies) are **well-defined** and **easily separable**.
+   - There's **minimal background noise**, unlike real-world systems that exhibit varied and noisy behavior.
+2. This results in models achieving near-perfect accuracy due to the **clarity and structure** of the data.
+3. Extensive evaluation using **cross-validation**, **stratified train-test splits**, and **different split ratios** did not change the results — confirming the consistency, but also the simplicity of the dataset.
+
+### Additional Notes
+
+- **Naive Bayes** performed surprisingly well and showed **minimal overfitting**, likely due to the feature independence assumption matching the dataset characteristics.
+- Future improvements could involve:
+  - Adding **Gaussian noise** to oversampled minority (attack) samples to mimic variability.
+  - Introducing **light anomalies** into normal data to simulate "near-miss" cases or subtle pre-attack patterns.
+
+This would bring the dataset closer to real-world conditions and better evaluate the model's generalizability.
+
+---
 
 ## Citation
 
