@@ -46,17 +46,19 @@ Balancing Strategy:
 
 ## Results
 
-Model | Accuracy | Precision | Recall | F1 Score
-Decision Tree | 99.64% | 0.909 | 0.667 | 0.769
-Naive Bayes | 91.05% | 0.846 | 0.733 | 0.785
-SVM | 99.60% | 0.900 | 0.750 | 0.810
-ANN | 99.60% | 0.900 | 0.750 | 0.810
-Random Forest | 99.92% | 0.916 | 0.733 | 0.814
-Ensemble | 99.14% | 0.911 | 0.753 | 0.819
+| Model           | Accuracy | Precision | Recall | F1 Score |
+|----------------|----------|-----------|--------|----------|
+| Decision Tree  | 99.64%   | 0.909     | 0.667  | 0.769    |
+| Naive Bayes    | 91.05%   | 0.846     | 0.733  | 0.785    |
+| SVM            | 99.60%   | 0.900     | 0.750  | 0.810    |
+| ANN            | 99.60%   | 0.900     | 0.750  | 0.810    |
+| Random Forest  | 99.92%   | 0.916     | 0.733  | 0.814    |
+| **Ensemble**   | **99.14%** | **0.911** | **0.753** | **0.819** |
+
 
 ## Citation
 
 If you use this code or dataset in your research, please cite:
 
-> Patil, P., Kale, G., Chandwani, M., & Wagh, A. (2023). _Boosting Attack Detection Capabilities in Multi-Tenant Distributed Systems via Meta-Ensemble Classifiers and Weighted Averaging_. IJRITCC, Vol. 11, Issue 9. [Read Paper]([http://www.ijritcc.org/download/Boosting-Attack-Detection-Capabilities-in-Multi-Tenant-Distributed-Systems-via-Meta-Ensemble-Classifiers-and-Weighted-Averaging.pdf](https://ijritcc.org/index.php/ijritcc/article/view/8994))
+> Patil, P., Kale, G., Chandwani, M., & Wagh, A. (2023). _Boosting Attack Detection Capabilities in Multi-Tenant Distributed Systems via Meta-Ensemble Classifiers and Weighted Averaging_. IJRITCC, Vol. 11, Issue 9. [Read Paper](https://ijritcc.org/index.php/ijritcc/article/view/8994)
 
